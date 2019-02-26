@@ -1,0 +1,24 @@
+{
+  "name": "kabul-hotels",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zed-zubaid/kabul-hotels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zed-zubaid/kabul-hotels/issues"
+  },
+  "homepage": "https://github.com/zed-zubaid/kabul-hotels#readme",
+  "description": ""
+}
